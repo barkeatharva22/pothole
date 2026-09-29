@@ -1,0 +1,5 @@
+1. Unzip this folder. Open a terminal INSIDE it (you must see package.json here).
+2. Create a file named .env.local (copy .env.example) and fill in your own keys.
+3. npm install
+4. npm run dev
+5. Open http://localhost:3000  (then go to /login)
